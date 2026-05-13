@@ -156,7 +156,7 @@ export default function Home() {
               </ul>
               {/* Replace href with your Lemon Squeezy checkout URL */}
               <a
-                href="#LEMON_SQUEEZY_CHECKOUT_URL"
+                href="https://hirowisdom.lemonsqueezy.com/checkout/buy/e127402d-c267-4c9e-b9eb-3300629345b4"
                 className="mt-7 block text-center py-2.5 rounded-xl
                   bg-green-500 hover:bg-green-400 text-gray-950 text-sm font-bold
                   transition-colors shadow-md shadow-green-900/30"
